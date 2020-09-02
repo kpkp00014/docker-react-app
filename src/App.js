@@ -21,7 +21,7 @@ function App() {
     href = "https://reactjs.org"
     target = "_blank"
     rel = "noopener noreferrer" >
-    테스트 <
+    test <
     /a> < /
     header > <
     /div>
